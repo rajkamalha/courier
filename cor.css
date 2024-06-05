@@ -1,0 +1,398 @@
+body{
+background-image: url(img/veee.jpg);
+background-size: cover;
+background-position: center;
+background-repeat: no-repeat;
+height: 500dvh;
+
+
+
+}
+/* #one{
+
+} */
+#topL{
+    margin-top: -12px;
+    padding:10px;
+    
+    height: 50px;
+    
+    position: fixed;
+    width: 100%;
+    margin-left: -20px;
+    background:linear-gradient(135deg,rgb(197, 188, 188));
+    backdrop-filter: blur(50px);
+
+
+    
+    
+
+    
+}
+#topR a{
+
+    
+    text-decoration: none;
+    padding: 10px;
+    margin-left: 10px;
+
+
+}
+#topR{
+    float: right;
+    margin-top: 16px;
+    width: 500px;
+    
+}
+.tleft{
+    margin-left: 90px;
+    margin-bottom: -30px;
+
+}
+.qu{
+    margin-top: 13px;
+}
+.fa-magnifying-glass{
+    color: orange;
+    
+    
+    width: 20px;
+    border-radius: 0px 0px 0px 2px;    
+}
+button{
+    width: 100px;
+    height: 30px;
+    border: none;
+    border-radius: 5px 5px 5px 5px;
+    color: white;
+    background-color: orange;
+
+}
+.div{
+    height: 450px;
+    width: 200px;
+    margin: 30px;
+    
+    justify-content:center;
+    padding: 30px;
+    background-color: aliceblue;
+    overflow-wrap: break-word;
+    text-align: center;
+    
+}
+#flex{
+    display: flex;
+    justify-content: center;
+}
+.p1{
+    text-align: left;
+    margin-top: -30px;
+}
+li::before{
+    content: "\2022";
+    color: orangered;
+    font-size:25px ;
+    
+    
+}
+ul li{
+    list-style: none;
+    margin-left: -170px;
+    padding: 10px;
+}
+/* .bo{
+    justify-content: 
+
+} */
+.p2{
+    text-align: left;
+}
+.p3{
+    text-align:left;
+}
+.awa{
+    justify-content: center;
+    display: flex;
+    /* borde */
+    
+
+}
+.inn{
+    margin: 40px;
+    
+    width: 150px;
+    height: 170px;
+    justify-content:center;
+    text-align: justify;
+    padding: 30px;
+    
+
+}
+.num{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
+    margin-top: 29px;
+    text-align: center;
+    color: orangered;
+}
+.tag{
+    margin: -20px;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-seri;
+    color: gray;
+}
+video{
+    border: none;
+    border-radius: 9px 9px 9px 9px;
+}
+.fa-quote-left{
+    justify-content: center;
+    border: ridge red;
+    margin: auto;
+}
+.quo{
+    
+    height: 100px;
+    width: 300px;
+    align-items:center ;
+
+    text-align: center;
+    margin-left: 350px;
+    
+
+
+}
+.te{
+    color: orangered;
+}
+.img2 img{
+    height: 200px;
+    
+
+}
+.img2{
+    
+    width: 300px;
+    margin-left: 190px;
+}
+.img2 h4{
+    margin-top: -20px;
+    color: orangered;
+}
+.img2 h1{
+    margin-top: -10px;
+}
+.img2 p{
+    margin-top: -15px;
+}
+.input{
+
+    height: 400px;
+    width: 500px;
+    margin-left: 40px;
+    
+    
+}
+.call{
+    
+    margin: auto;
+    display: flex;
+    padding: 3px;
+}
+.input input{
+    width: 200px;
+    padding: 10px;
+    line-height: 30px;
+    height: 10px;
+    margin-bottom: 20px;
+    background-color: transparent;
+    border:solid 1px grey;
+    border-radius: 5px ;
+    
+}
+.input button{
+    width: 223px;
+}
+.map img{
+    width: 50%;
+    height: 300px;
+    border: 0cap;
+    border-radius: 5px;
+    
+}
+.map p{
+    margin-left: 20px;
+    margin-top:  -18px;
+
+}
+.con{
+    width: 400px;
+    
+    height: 240px;
+    padding: 30px;
+    background-color: rgb(251, 251, 252);
+    margin-left: -97px;
+    border-radius: 5px;
+}
+.map{
+    margin: auto;
+    
+    display: flex;
+    margin-left:80px ;
+    
+}
+.bu{
+    justify-content: center;
+    width: 500px;
+    margin-top: 20px;
+}
+.bl1{
+    width:fill;
+    height: 200px;
+    
+    background-color:  rgb(32,38, 34);
+    display: flex;
+    margin-left: -30px;
+    margin-right: -100px;
+}
+    
+
+    
+
+.bc1{
+
+    
+    width: 500px;
+    height: 130px;
+    margin-left: 110px;
+    
+      
+}
+.bc1 h1{
+    color: aliceblue;
+}
+.bc1 p{
+    color: grey;
+}
+.bc2 h3{
+    color: orangered;
+    
+}
+.bc2{
+    margin-left: 70px;
+}
+.bc2 input{
+    border: 1px solid grey;
+    background-color: transparent;
+    border-radius: 5px;
+    width: 300px;
+    height: 40px;
+
+}
+.bc2 button{
+    height: 40px;
+}
+.bl2{
+    
+    width:fill;
+    margin-left: -30px;
+    margin-right: -100px;
+    height: 250px;
+    display: flex;
+    background-color: rgb(69, 63, 63);
+    
+}
+.bcc1{
+    
+    width: 270px;
+    margin-left: 70px;
+    margin-top: 30px;
+}
+.oth1{
+    
+    width: 150px;
+    margin-left: 420px;
+    justify-content: center;
+    padding: -10px;
+    
+}
+.oth2{
+    
+    width: 150px;
+    margin-left: -5px;
+    justify-content: center;
+    padding: -10px;
+    
+}
+.oth3{
+    
+    width: 150px;
+    margin-left: -10px;
+    justify-content: center;
+    padding: -10px;
+    
+}
+.bl2 h4{
+    color: white;
+}
+.bl2 p a{
+    
+    color: grey;
+    text-decoration: none;
+}
+a:hover{
+    color: aqua;
+    text-decoration: underline;
+}
+.bl2 a:hover{
+    color: aquamarine;
+    text-decoration: underline;
+}
+.la{
+     
+    background-color: rgb(32,38, 34);
+    height:100px ;
+    margin-left: -30px;
+    margin-right: -100px;
+    margin-top: -50px;
+    padding-top: 30px;
+    
+}
+.po p{
+    color: aliceblue;
+    margin-left: 90px;
+    margin-top: 30px;
+}
+.ma p{
+    color: white;
+}
+.ma i{
+    color: orangered;
+}
+.ma a{
+    color: orangered;
+    text-decoration: none;
+
+}
+.ma{
+    margin-left: 1000px;
+    margin-top: -35px;   
+}
+.ma a:hover{
+    text-decoration: underline;
+}
+.fi h1{
+    font-size: 50px; 
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+.fi h2{
+    font-size: 30px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.fi{
+    
+    width: 500px;
+    margin-left: 100px;
+}
+
